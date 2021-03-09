@@ -1,0 +1,20 @@
+Fichiers:
+Compte rendu de brief: brief14-Classification_Images.ipynb
+Sujet du brief: Classification d'Images.pdf
+Compte rendu tavail sur les fichiers images (contraste, taille,...): testfichiers.ipynb
+
+Fichiers divers:
+coyotejp2.jpg
+img1_cours.png
+img2_cours.png
+img3_testdeform.jpg
+img4_testdeforme.jpg
+mr-bean-671027_640.jpg
+
+Dataset:
+Les données proviennent du Dataset:
+https://vcla.stat.ucla.edu/people/zhangzhang-si/HiT/AnimalFace.zip
+On note la faible qualité de ces images!
+
+ Répertoire contenant les données:
+ ~/data/AnimalFace/Image/"nom_animalHead (exemple BearHead)"/images en RGB
