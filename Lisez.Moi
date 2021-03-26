@@ -14,6 +14,9 @@ img3_testdeform.jpg
 img4_testdeforme.jpg
 mr-bean-671027_640.jpg
 
+Librairie:
+./librairie/b17fonction.py
+
 Dataset:
 Les données proviennent du Dataset:
 https://vcla.stat.ucla.edu/people/zhangzhang-si/HiT/AnimalFace.zip
