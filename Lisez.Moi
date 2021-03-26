@@ -2,6 +2,7 @@ Fichiers:
 Compte rendu de brief: brief14-Classification_Images.ipynb
 Sujet du brief: Classification d'Images.pdf
 Compte rendu tavail sur les fichiers images (contraste, taille,...): testfichiers.ipynb
+
 Analyse des résultats:
 comp_fich.ods
 comp_fich.pdf          
@@ -13,6 +14,13 @@ img2_cours.png
 img3_testdeform.jpg
 img4_testdeforme.jpg
 mr-bean-671027_640.jpg
+
+Fichiers relatifs au CNN (Attention trés brouillon. CNN kaggle et Neveu non inclu)
+/cnn/classcnn.ipynb
+/cnn/classcnn2.ipynb
+
+Fichier relatif à pytorch (bout de code début brief sans interet pour l'instant)
+cnn_pytorch.ipynb
 
 Librairie:
 ./librairie/b17fonction.py
